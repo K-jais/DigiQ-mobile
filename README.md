@@ -1,4 +1,4 @@
-# hackthebronxdigiq
+# Digiq
 
 A new Flutter project.
 
