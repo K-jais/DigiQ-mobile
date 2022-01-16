@@ -1,1 +1,0 @@
-# DigiQ-mobile
